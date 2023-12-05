@@ -42,6 +42,3 @@
 #         print(col)
 
 list_2 = ["ab","cd","ef"]
-
-
-    
